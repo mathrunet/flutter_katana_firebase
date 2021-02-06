@@ -16,7 +16,7 @@ It defines several extension methods and global functions.
 Add this to your package's pubspec.yaml file:
 ```yaml
 dependencies:
-  katana: ^0.7.0
+  katana_firebase: ^0.7.0
 ```
 You should then run `flutter pub upgrade`.
 
