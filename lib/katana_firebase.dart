@@ -12,4 +12,4 @@ import "package:firebase_core/firebase_core.dart";
 import 'package:katana/katana.dart';
 export 'package:katana/katana.dart';
 
-part "firebase/firebase_initializer.dart";
+part "firebase/firebase_core.dart";

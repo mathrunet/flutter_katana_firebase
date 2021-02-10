@@ -1,7 +1,7 @@
 part of katana_firebase;
 
-class FirebaseInitializer {
-  FirebaseInitializer._();
+class FirebaseCore {
+  FirebaseCore._();
   static FirebaseApp? _app;
 
   /// True if initialization has been completed.
