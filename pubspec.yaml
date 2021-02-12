@@ -1,6 +1,6 @@
 name: katana_firebase
 description: Katana package that provides utilities for firebase.
-version: 0.7.0-nullsafety.5
+version: 0.8.0-nullsafety.7
 homepage: https://mathru.net
 repository: https://github.com/mathrunet/flutter_katana_firebase
 
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
     
-  katana: ^0.7.0-nullsafety
+  katana: ^0.8.0-nullsafety
   firebase_core: ^0.8.0-1.0.nullsafety
 
 dev_dependencies:
