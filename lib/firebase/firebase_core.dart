@@ -12,5 +12,6 @@ class FirebaseCore {
     }
     await Localize.initialize(locale: "en_US");
     _app = await Firebase.initializeApp();
+    FirebaseFirestore.instance.settings = const Settings();
   }
 }
