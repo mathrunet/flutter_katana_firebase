@@ -1,6 +1,6 @@
 name: katana_firebase
 description: Katana package that provides utilities for firebase.
-version: 0.8.0-nullsafety.12
+version: 0.8.0-nullsafety.13
 homepage: https://mathru.net
 repository: https://github.com/mathrunet/flutter_katana_firebase
 
