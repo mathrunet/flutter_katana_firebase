@@ -8,8 +8,11 @@
 /// [YouTube]: https://www.youtube.com/c/mathrunetchannel
 library katana_firebase;
 
+import 'dart:async';
+
 import "package:firebase_core/firebase_core.dart";
 import "package:cloud_firestore/cloud_firestore.dart";
+import 'package:flutter/cupertino.dart';
 import 'package:katana/katana.dart';
 export 'package:katana/katana.dart';
 
